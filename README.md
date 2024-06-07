@@ -26,10 +26,10 @@ This project is a comprehensive web application featuring user authentication an
 
 ## Screenshots
 1. **Registration Page**:
-   ![Registration Page](path_to_screenshot)
+   [![Registration Page](path_to_screenshot)](https://sigup-login-with-auth.netlify.app/createpage)
 2. **Login Page**:
-   ![Login Page](path_to_screenshot)
+   [![Login Page](path_to_screenshot)](https://sigup-login-with-auth.netlify.app/loginpage.html)
 3. **Portfolio Page**:
-   ![Portfolio Page](path_to_screenshot)
+   [![Portfolio Page](path_to_screenshot)](https://sigup-login-with-auth.netlify.app/index.html)
 
 
