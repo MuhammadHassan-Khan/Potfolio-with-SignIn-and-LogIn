@@ -1,5 +1,5 @@
 
-# 🚀 Project Title: User Authentication & Portfolio Application
+# 🚀 User Authentication & Portfolio Application
 
 ## Overview
 This project is a comprehensive web application featuring user authentication and a portfolio showcase. Developed using HTML, CSS, JavaScript, Bootstrap, and Firebase, it ensures a seamless and responsive user experience with a modern and attractive UI.
