@@ -6,24 +6,24 @@
 * License: https://bootstrapmade.com/license/
 */
 
-import { auth } from "../../../../firebase.mjs";
+// import { auth } from "../../../../firebase.mjs";
 
-import { getAuth , onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js"
+// import { getAuth , onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js"
 
-onAuthStateChanged(auth, (user) => {
-    if (user) {
-      // alert("Welcome to my Potfolio")
-      // User is signed in, see docs for a list of available properties
-      // https://firebase.google.com/docs/reference/js/auth.user
-      const uid = user.uid;
-      // ...
-    } else {
-      // User is signed out
-      // ...
-      window.location.href = "loginpage.html"
+// onAuthStateChanged(auth, (user) => {
+//     if (user) {
+//       // alert("Welcome to my Potfolio")
+//       // User is signed in, see docs for a list of available properties
+//       // https://firebase.google.com/docs/reference/js/auth.user
+//       const uid = user.uid;
+//       // ...
+//     } else {
+//       // User is signed out
+//       // ...
+//       window.location.href = "loginpage.html"
      
-    }
-  });
+//     }
+//   });
 
 
 
